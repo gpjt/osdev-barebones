@@ -1,0 +1,1 @@
+Following through http://wiki.osdev.org/Bare_Bones
